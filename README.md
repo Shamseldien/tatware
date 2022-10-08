@@ -16,3 +16,12 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
  
 ![alt text](https://github.com/Shamseldien/tatware/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-10-08%20at%2016.24.15.png)
+
+
+![alt text](https://github.com/Shamseldien/tatware/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-10-08%20at%2016.24.24.png)
+
+![alt text](https://github.com/Shamseldien/tatware/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-10-08%20at%2016.24.30.png)
+
+![alt text](https://github.com/Shamseldien/tatware/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-10-08%20at%2016.24.35.png)
+
+![alt text](https://github.com/Shamseldien/tatware/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-10-08%20at%2016.24.41.png)
